@@ -1,0 +1,20 @@
+git clone command:
+        >git clone (link of you github repository)
+git pull command:
+        >git pull 
+
+git status command:
+        > git status
+git checkout command for change your branch:
+        >git checkout (your branch name)
+to show which is working branch:
+        >git branch (it will show the branch name with * is your current working directory)
+
+add all file to github : instead of this you canalso use git commit -a "messag" command
+        your local folder>git  add -A 
+commit command:
+        your local folder>git  commit -m "message. #1(<- github issue id which is display after the issue name) "'
+git push command:
+        your local folder>git push 
+
+
